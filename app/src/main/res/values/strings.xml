@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rss Demo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tv_dia">Mo</string>
+    <string name="tv_dia_numero">10</string>
+    <string name="tv_fecha">12 Dic Monday</string>
+    <string name="tv_titulo">Shakespeare: Romeo y Julieta</string>
+</resources>

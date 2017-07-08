@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ciencia"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Ciencia" />
+        <item
+            android:id="@+id/nav_tecnologia"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Tecnologia" />
+        <item
+            android:id="@+id/nav_anime"
+            android:icon="@drawable/ic_videogame_asset_black_24dp"
+            android:title="Anime" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+    </group>
+
+
+
+</menu>
